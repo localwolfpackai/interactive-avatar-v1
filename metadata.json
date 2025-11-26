@@ -1,0 +1,5 @@
+{
+  "name": "Lupo Studios - Interactive Avatar",
+  "description": "A high-fidelity interactive avatar featuring a fluid mesh gradient background, eye-tracking capabilities, and organic animations. Built with React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": []
+}
